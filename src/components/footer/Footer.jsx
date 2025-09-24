@@ -8,13 +8,12 @@ export default function Footer() {
   <div className="footer-top">
     <div className="container">
       <div className="row">
-        <div className="col-lg-3 col-md-6">
+        <div className="col-lg-6 col-md-6">
           <div className="footer-info">
-            <h3>Fly Heigth<span>.</span></h3>
+            <h3>Umzug <span>Transport Group.</span></h3>
             <p>
-              A108 Adam Street <br />
-              NY 535022, USA<br /><br />
-              <strong>Phone:</strong> +1 5589 55488 55<br />
+              Am Haferfeld 15, <br />86156 Augsburg<br /> <br />
+              <strong>Phone:</strong> +49 157 591 295 00<br />
               <strong>Email:</strong> info@example.com<br />
             </p>
             <div className="social-links mt-3">
@@ -73,25 +72,19 @@ export default function Footer() {
         </ul>
       </div>
   */}
-        <div className="col-lg-4 col-md-6 footer-newsletter">
-          <h4>Our Newsletter</h4>
-          <p>
-            Tamen quem nulla quae legam multos aute sint culpa legam noster
-            magna
-          </p>
-          <form action method="post">
-            <input type="email" name="email" /><input type="submit" defaultValue="Subscribe" />
-          </form>
-        </div>
+        
+
+
+
       </div>
     </div>
   </div>
   <div className="container">
     <div className="copyright">
-      © Copyright <strong><span>Fly Heigth</span></strong>. All Rights Reserved
+      © Copyright <strong><span>Umzug Transport Group.</span></strong>. All Rights Reserved
     </div>
     <div className="credits">
-      Designed by <a href="#">Fly Heigth</a>
+      Designed by <a href="#">Umzug Transport Group.</a>
     </div>
   </div>
 </footer>

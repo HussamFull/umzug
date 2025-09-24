@@ -9,7 +9,7 @@ export default function Team() {
   <div className="container" data-aos="fade-up">
     <div className="section-title">
       <h2>Team</h2>
-      <p>Check our Team</p>
+      <p>Schauen Sie sich unser Team an </p>
     </div>
     <div className="row">
       <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -24,7 +24,7 @@ export default function Team() {
             </div>
           </div>
           <div className="member-info">
-            <h4> Malaz Almallah</h4>
+            <h4> Malaz </h4>
             <span>Chief Executive Officer</span>
           </div>
         </div>
@@ -41,7 +41,7 @@ export default function Team() {
             </div>
           </div>
           <div className="member-info">
-            <h4>Ronja Lauhues</h4>
+            <h4>Ronja </h4>
             <span>Product Manager</span>
           </div>
         </div>
@@ -58,7 +58,7 @@ export default function Team() {
             </div>
           </div>
           <div className="member-info">
-            <h4>Hussam Alnabelsi</h4>
+            <h4>Hussam </h4>
             <span>CTO</span>
           </div>
         </div>

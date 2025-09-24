@@ -150,11 +150,11 @@ export default function Portfolio() {
         <div className="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start" data-aos="fade-right" data-aos-delay={100} />
         <div className="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay={100}>
           <div className="content d-flex flex-column justify-content-center">
-            <h3>Voluptatem dignissimos provident quasi</h3>
+            <h3>Professioneller Umzugsservice: Stressfreier Umzug garantiert!</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-              do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              Duis aute irure dolor in reprehenderit
+              Planen Sie einen Umzug? Lassen Sie uns Ihnen helfen! Unsere erfahrene Umzugsfirma bietet Ihnen einen zuverlässigen und professionellen Service für Ihren reibungslosen Umzug.
+
+Warum uns wählen?
             </p>
             <div className="row">
               <div className="col-md-6 d-md-flex align-items-md-stretch">
@@ -162,8 +162,7 @@ export default function Portfolio() {
                   <i className="bi bi-emoji-smile" />
                   <span data-purecounter-start={0} data-purecounter-end={65} data-purecounter-duration={2} className="purecounter" />
                   <p>
-                    <strong>Happy Clients</strong> consequuntur voluptas
-                    nostrum aliquid ipsam architecto ut.
+                    <strong>Erfahrene und freundliche Mitarbeiter,</strong>  die Ihre Bedürfnisse verstehen.
                   </p>
                 </div>
               </div>
@@ -172,8 +171,7 @@ export default function Portfolio() {
                   <i className="bi bi-journal-richtext" />
                   <span data-purecounter-start={0} data-purecounter-end={85} data-purecounter-duration={2} className="purecounter" />
                   <p>
-                    <strong>Projects</strong> adipisci atque cum quia
-                    aspernatur totam laudantium et quia dere tan
+                    <strong>Sorgfältige</strong>  Handhabung Ihrer persönlichen Gegenstände.
                   </p>
                 </div>
               </div>
@@ -182,8 +180,8 @@ export default function Portfolio() {
                   <i className="bi bi-clock" />
                   <span data-purecounter-start={0} data-purecounter-end={35} data-purecounter-duration={4} className="purecounter" />
                   <p>
-                    <strong>Years of experience</strong> aut commodi quaerat
-                    modi aliquam nam ducimus aut voluptate non vel
+                    <strong>Pünktlichkeit</strong>  und Zuverlässigkeit stehen bei uns an erster Stelle.
+
                   </p>
                 </div>
               </div>
@@ -192,16 +190,22 @@ export default function Portfolio() {
                   <i className="bi bi-award" />
                   <span data-purecounter-start={0} data-purecounter-end={20} data-purecounter-duration={4} className="purecounter" />
                   <p>
-                    <strong>Awards</strong> rerum asperiores dolor alias quo
-                    reprehenderit eum et nemo pad der
+                    <strong>Maßgeschneiderte Lösungen</strong> , die Ihren Anforderungen gerecht werden.
+
                   </p>
                 </div>
               </div>
+
             </div>
           </div>
           {/* End .content*/}
+
+         
         </div>
+       
+        
       </div>
+      
     </div>
   </section>
   {/* End Counts Section */}
@@ -213,14 +217,12 @@ export default function Portfolio() {
           <div className="swiper-slide">
             <div className="testimonial-item">
               <img src="assets/img/testimonials/testimonials-1.jpg" className="testimonial-img" alt />
-              <h3>Saul Goodman</h3>
+              <h3>Herr  Goodman</h3>
               <h4>Ceo &amp; Founder</h4>
               <p>
                 <i className="bx bxs-quote-alt-left quote-icon-left" />
-                Proin iaculis purus consequat sem cure digni ssim donec
-                porttitora entum suscipit rhoncus. Accusantium quam,
-                ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                risus at semper.
+                Von der Planung bis zur Ausführung kümmern wir uns um jeden Schritt Ihres Umzugsprozesses, damit Sie sich entspannt zurücklehnen können. Kontaktieren Sie uns jetzt für ein unverbindliches Angebot und lassen Sie uns Ihren Umzug stressfrei gestalten!
+
                 <i className="bx bxs-quote-alt-right quote-icon-right" />
               </p>
             </div>

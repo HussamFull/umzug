@@ -10,36 +10,27 @@ export default function About() {
         <img src="assets/img/about.jpg" className="img-fluid" alt />
       </div>
       <div className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay={100}>
-        <h3>„FlyHigh“</h3>
+        <h3>Über uns  </h3>
         <p className="fst-italic">
-          Auftrag: Wir brauchen für unser Privatflugzeug Vermietung eine
-          Datenbank wo alle Flugzeuge, Piloten, Flugbegleiter und Gehälter
-          Verwaltet werden.
+          Als vielseitiges Transportunternehmen und Experte für Umzüge sind wir Ihr vertrauenswürdiger Partner für sämtliche Transport- und Umzugsanliegen. 
         </p>
         <ul>
           <li>
-            <i className="ri-check-double-line" /> Zudem benötigen wir eine
-            Übersicht aller unserer Flugzeuge, die zurzeit vermietet sind.
+            <i className="ri-check-double-line" /> Mit langjähriger Erfahrung und einem engagierten Team bieten wir Ihnen maßgeschneiderte Lösungen für Ihre individuellen Bedürfnisse.
           </li>
           <li>
-            <i className="ri-check-double-line" /> Zu jedem Flugzeug
-            brauchen wir eine Übersicht zum Modell und zu Möglichen
-            Ausstattung, die verfügbar sind.
+            <i className="ri-check-double-line" /> Ob Sie nur einen Transport oder einen vollständigen Umzug benötigen – wir sind hier, um Ihnen einen erstklassigen Service zu bieten
           </li>
           <li>
-            <i className="ri-check-double-line" /> ZU den angestellten
-            benötigen wir eine Übersicht mit den Namen, Adressen,
-            Gehältern, und dem zugeteilten Flugzeug gespeichert werden.
+            <i className="ri-check-double-line" /> Verlassen Sie sich auf Transport Group für einen reibungslosen Ablauf. 
           </li>
+          
           <li>
-            <i className="ri-check-double-line" /> Zum Kunden benötigen wir
-            allgemeine Informationen(Kontaktinformationen) für Werbezwecke
-            und Käufe.
+            <i className="ri-check-double-line" /> Kontaktieren Sie uns noch heute, um mehr zu erfahren!
           </li>
         </ul>
         <br />
-        Mitglieder: Hussam Alnabelsi, Malaz Almallah, Ronja Lauhues
-        <br />Ansprechpartner: Ronja Lauhues <br />
+        Wir bieten Ihnen einen freundlichen, kompetenten und fairen Service, der auf Ihre Bedürfnisse zugeschnitten ist.
         <p />
       </div>
     </div>
@@ -56,34 +47,30 @@ export default function About() {
         <div className="col-lg-6" data-aos="fade-left" data-aos-delay={100}>
           <div className="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay={150}>
             <i className="bx bx-receipt" />
-            <h4>Est labore ad</h4>
+            <h4>Umzüge (Komplett- und Kleinumzüge)</h4>
             <p>
-              Consequuntur sunt aut quasi enim aliquam quae harum pariatur
-              laboris nisi ut aliquip
+              Wir kümmern uns um den gesamten Umzugsprozess, von der Verpackung bis zum Transport und dem Aufbau der Möbel, egal ob es sich um einen großen Haushalt oder nur wenige Gegenstände handelt.
             </p>
           </div>
           <div className="icon-box mt-5" data-aos="zoom-in" data-aos-delay={150}>
             <i className="bx bx-cube-alt" />
-            <h4>Harum esse qui</h4>
+            <h4>Wohnungsauflösung</h4>
             <p>
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa
-              qui officia deserunt
+              Wir leeren Wohnungen und Häuser vollständig, einschließlich der Entsorgung von Möbeln und Haushaltsgegenständen, um sie besenrein zu übergeben. 
             </p>
           </div>
           <div className="icon-box mt-5" data-aos="zoom-in" data-aos-delay={150}>
             <i className="bx bx-images" />
-            <h4>Aut occaecati</h4>
+            <h4>Transport aller Art - privat und gewerblich</h4>
             <p>
-              Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut
-              maiores omnis facere
+               Wir transportieren eine Vielzahl von Gütern für Privatpersonen und Unternehmen, von einzelnen Möbelstücken bis hin zu größeren Sendungen.
             </p>
           </div>
           <div className="icon-box mt-5" data-aos="zoom-in" data-aos-delay={150}>
             <i className="bx bx-shield" />
-            <h4>Beatae veritatis</h4>
+            <h4> Transport und Entsorgung von Elektrogeräten</h4>
             <p>
-              Expedita veritatis consequuntur nihil tempore laudantium vitae
-              denat pacta
+              Wir holen alte Elektrogeräte wie Kühlschränke und Waschmaschinen ab und stellen sicher, dass sie umweltgerecht recycelt oder entsorgt werden. 
             </p>
           </div>
         </div>
