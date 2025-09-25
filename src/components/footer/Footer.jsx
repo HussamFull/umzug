@@ -43,7 +43,7 @@ export default function Footer() {
             </li>
             <li>
               <i className="bx bx-chevron-right" />
-              <Link to={"/Policy"} href="#">Privacy policy</Link>
+              <Link to={"/Impressum"} href="#">Impressum</Link>
             </li>
           </ul>
         </div>

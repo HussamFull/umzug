@@ -7,7 +7,10 @@ import Services from "./components/services/Services.jsx";
 import Portfolio from "./components/portfolio/Portfolio.jsx";
 import Team from "./components/team/Team.jsx";
 import Contact from "./components/contact/Contact.jsx";
-import Policy from "./pages/policy/Policy.jsx";
+import Impressum from "./pages/policy/Impressum.jsx";
+import Datenschutzerklaerung from "./pages/policy/Datenschutzerklaerung.jsx";
+
+
 
 const router = createBrowserRouter([
   {
@@ -39,9 +42,16 @@ const router = createBrowserRouter([
         element: <Contact />,
       },
         {
-        path: "/policy",
-        element: <Policy />,
+        path: "/datenschutzerklaerung",
+        element: <Datenschutzerklaerung />,
       },
+        {
+        path: "/impressum",
+        element: <Impressum />,
+      }
+
+
+      
       
       
       
