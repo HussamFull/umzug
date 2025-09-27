@@ -7,7 +7,7 @@ export default function About() {
   <div className="container" data-aos="fade-up">
     <div className="row">
       <div className="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay={100}>
-        <img src="assets/img/about.jpg" className="img-fluid" alt />
+        <img src="assets/img/about.png" className="img-fluid" alt />
       </div>
       <div className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay={100}>
         <h3>Über uns  </h3>
@@ -43,7 +43,7 @@ export default function About() {
   <section id="features" className="features">
     <div className="container" data-aos="fade-up">
       <div className="row">
-        <div className="image col-lg-6" style={{backgroundImage: 'url("assets/img/features.jpg")'}} data-aos="fade-right" />
+        <div className="image col-lg-6" style={{backgroundImage: 'url("assets/img/features.png")'}} data-aos="fade-right" />
         <div className="col-lg-6" data-aos="fade-left" data-aos-delay={100}>
           <div className="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay={150}>
             <i className="bx bx-receipt" />

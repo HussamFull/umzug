@@ -24,7 +24,7 @@ export default function Team() {
             </div>
           </div>
           <div className="member-info">
-            <h4> Malaz </h4>
+            <h4> Mala </h4>
             <span>Chief Executive Officer</span>
           </div>
         </div>
@@ -58,7 +58,7 @@ export default function Team() {
             </div>
           </div>
           <div className="member-info">
-            <h4>Hussam </h4>
+            <h4>Hos </h4>
             <span>CTO</span>
           </div>
         </div>
@@ -75,7 +75,7 @@ export default function Team() {
             </div>
           </div>
           <div className="member-info">
-            <h4>Amanda Jepson</h4>
+            <h4>Amanda </h4>
             <span>Accountant</span>
           </div>
         </div>

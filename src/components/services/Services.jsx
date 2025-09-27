@@ -108,7 +108,7 @@ Wir holen alte Elektrogeräte wie Kühlschränke und Waschmaschinen ab und stell
         <p>
          Brauchen Sie Hilfe bei Ihrem Umzug? Fragen Sie bei uns an. Wir haben auch kurzfristige Termine frei.
         </p>
-        <a className="cta-btn" href="#">Kontaktieren Sie uns</a>
+        <a className="cta-btn" href=" https://wa.me/message/7TEJZNO3QI2RM1">Kontaktieren Sie uns</a>
       </div>
     </div>
   </section>

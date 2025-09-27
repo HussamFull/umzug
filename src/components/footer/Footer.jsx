@@ -17,11 +17,10 @@ export default function Footer() {
               <strong>Email:</strong> info@example.com<br />
             </p>
             <div className="social-links mt-3">
-              <a href="#" className="twitter"><i className="bx bxl-twitter" /></a>
-              <a href="#" className="facebook"><i className="bx bxl-facebook" /></a>
-              <a href="#" className="instagram"><i className="bx bxl-instagram" /></a>
-              <a href="#" className="google-plus"><i className="bx bxl-skype" /></a>
-              <a href="#" className="linkedin"><i className="bx bxl-linkedin" /></a>
+              <a href="https://www.facebook.com/share/1Ni2XmzmMZ/" className="facebook"><i className="bx bxl-facebook" /></a>
+              <a href="https://www.instagram.com/abdulkarimahaj?utm_source=qr&igsh=YzZkMjNkb3ptdDZw" className="instagram"><i className="bx bxl-instagram" /></a>
+
+              
             </div>
           </div>
         </div>
