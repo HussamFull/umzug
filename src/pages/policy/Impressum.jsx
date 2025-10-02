@@ -1,6 +1,6 @@
 import React from 'react';
 // استيراد الكلاسات من ملف الـ CSS Module
-import styles from './impressum.module.css'; 
+import styles from './Impressum.module.css'; 
 
 const Impressum = () => {
   return (
