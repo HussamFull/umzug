@@ -28,13 +28,13 @@ export default function Footer() {
           <h4>Useful Links</h4>
           <ul>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#hero">Home</a>
+              <i className="bx bx-chevron-right" /> <Link to={""}>Home</Link>
             </li>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#about">About us</a>
+              <i className="bx bx-chevron-right" /> <Link to={"About"}>About us</Link>
             </li>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#services">Services</a>
+              <i className="bx bx-chevron-right" /> <Link to={"Services"}>Services</Link>
             </li>
             <li>
               <i className="bx bx-chevron-right" />

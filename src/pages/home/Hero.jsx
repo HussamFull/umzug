@@ -11,7 +11,7 @@ export default function Hero() {
   <div className="container" data-aos="fade-up">
     <div className="row justify-content-center" data-aos="fade-up" data-aos-delay={150}>
       <div className="col-xl-6 col-lg-8">
-        <h1> <span>Transport Group.</span></h1>
+        <h1>Umzüge<span>Transport Group</span></h1>
         <h2>Ihren Umzug planen? <span>Holen Sie sich ein Angebot</span>
           
         </h2>

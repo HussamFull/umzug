@@ -13,9 +13,9 @@ export default function Contact() {
 
     // هذه المعلومات تحصل عليها من حسابك في EmailJS
     // تأكد أن القيم التي أدخلتها صحيحة
-    const serviceId = 'service_butsdqj';
-    const templateId = 'template_8t10e2c';
-    const publicKey = 'x061AsciFqg9TbzC1';
+    const serviceId = 'service_ylp81l1';
+    const templateId = 'template_p7yktv8';
+    const publicKey = '17heQmHgnxfZgh-gM';
 
     emailjs.sendForm(serviceId, templateId, form.current, publicKey)
       .then((result) => {
