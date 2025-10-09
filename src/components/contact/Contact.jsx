@@ -52,7 +52,7 @@ export default function Contact() {
           <div className="email">
             <i className="bi bi-envelope" />
             <h4>Email:</h4>
-            <p>info@example.com</p>
+            <p>info@umzügetransportgroup.de</p>
           </div>
           <div className="phone">
             <i className="bi bi-phone" />

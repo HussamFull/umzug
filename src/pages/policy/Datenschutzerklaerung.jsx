@@ -64,11 +64,9 @@ export default function datenschutzerklaerung() {
           </p>
           <p>
             <strong>Wir setzen folgende(n) Hoster ein:</strong><br/>
-            HostPress GmbH<br/>
-            Bahnhofstraße 34<br/>
-            66571 Eppelborn<br/>
-            Telefon: +49 6881 9999 777<br/>
-            E-Mail: info@hostpress.de
+<br/>
+           hostinger.com
+            E-Mail: info@hostinger.com
           </p>
         </div>
         <div className={styles.sectionContent}>
@@ -100,11 +98,10 @@ export default function datenschutzerklaerung() {
           <h3>Hinweis zur verantwortlichen Stelle</h3>
           <p>
             Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:<br/>
-            <strong>Zaklina Jovanovic</strong><br/>
-            Düsseldorfer Straße. 46c,<br/>
-            41460 Neuss.<br/>
-            <strong>Telefon:</strong> 0172 56125815<br/>
-            <strong>E-Mail:</strong> <a href="mailto:info@transport24.email">info@transport24.email</a>
+            Am Haferfeld 15, ,<br/>
+            86156 Augsburg.<br/>
+            <strong>Telefon:</strong>+49 157 591 295 00<br/>
+            <strong>E-Mail:</strong> <a href="">info@umzügetransportgroup.de</a>
           </p>
           <p>
             Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.

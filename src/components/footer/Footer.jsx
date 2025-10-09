@@ -14,7 +14,7 @@ export default function Footer() {
             <p>
               Am Haferfeld 15, <br />86156 Augsburg<br /> <br />
               <strong>Phone:</strong> +49 157 591 295 00<br />
-              <strong>Email:</strong> info@example.com<br />
+              <strong>Email:</strong> info@umzügetransportgroup.de<br />
             </p>
             <div className="social-links mt-3">
               <a href="https://www.facebook.com/share/1Ni2XmzmMZ/" className="facebook"><i className="bx bxl-facebook" /></a>
